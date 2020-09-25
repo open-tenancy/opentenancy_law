@@ -28,7 +28,15 @@ Obviously they will get a bit more complex, but make them as complex as you feel
 
 You do not have to make them full, gramatically correct, questions if you're strapped for time - a few notes that we can expand on would be brilliant. 
 
-Make sure you note where the interview ends (ie where you give them the final tenancy advice; whether that is to talk to their landlord, contact the local council,, file a complaint, etc. - that way we know where to generate the document). 
+Make sure you note where the interview ends (ie where you give them the final tenancy advice; whether that is to talk to their landlord, contact the local council, file a complaint, etc. - that way we know where to generate the document). 
+
+## useful resources 
+
+here are a few useful, accurate, resources to identify the relevant law: 
+* [citizens advice](https://www.citizensadvice.org.uk/)
+* [tenants voice](https://www.thetenantsvoice.co.uk/advice_from_us/tenants-rights/)
+* [gov.uk](https://www.gov.uk/private-renting)
+* [legislation & statues](https://www.legislation.gov.uk)
 
 ## how to submit? 
 
