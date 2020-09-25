@@ -1,0 +1,8 @@
+TEST FILE
+question: are you feeling good today? 
+  yes: that's good that you're feeling good! are you excited for the weekend? 
+    yes: yay glad to hear you're excited for the weekend! do you have any plans? 
+      no: that's cool time to relax! END OF INTERVIEW
+      yes: awesome enjoy! END OF INTERVIEW
+    no: oh no that sucks that you aren't excited for the weekend :(
+  no: why don't you feel good today?
