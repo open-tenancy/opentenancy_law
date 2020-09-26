@@ -40,7 +40,7 @@ here are a few useful, accurate, resources to identify the relevant law:
 
 ## how to submit? 
 
-We'd prefer if you did it through Github. You will need to make an account, fork our repository, create a branch, commit your file to the decision trees folder, and then review and submit it to our repository - that way we can then approve it once verified and add it directly to this page for one of our coders to input to our questionnaire! A really handy tutorial is available at [this repository](https://github.com/firstcontributions/first-contributions), although they are really clear if you're struggling with some of the steps shoot us an email at owner.opentenancy@gmail.com. A big benefit of submitting through Github is that you will be listed on our list of contributors for the project!!
+We'd prefer if you did it through Github. You will need to make an account, fork our repository, create a branch, commit your file to the decision trees folder, and then review and submit it to our repository - that way we can then approve it once verified and add it directly to this page for one of our coders to input to our questionnaire! A really handy tutorial is available at [this repository](https://github.com/firstcontributions/first-contributions). These instructions cover the details, however if you're struggling with some of the steps shoot us an email at owner.opentenancy@gmail.com. A big benefit of submitting through Github is that you will be listed on our list of contributors for the project!
 
 However, if that's a bit tricky for you feel free to send it as an email to owner.opentenancy@gmail.com. 
 
