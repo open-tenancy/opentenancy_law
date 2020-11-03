@@ -9,6 +9,11 @@ Keen to help? Awesome! What we need is help figuring out the relevant questions 
 
 You can find a list of our current topics that we need decision trees for [here](topics.md). We've also included an example of our electricity decision tree [here](/decisiontrees/electric.txt). 
 
+## how to use GitHub
+If you have never used GitHub before to make contributions, that's fine! We made a small video tutorial in collaboration with UoA Legal Tech Society, with the link below.
+
+https://www.youtube.com/watch?v=zzYPEcwFoqs&t
+
 ## what to write? 
 We understand that you may not have legal experience, or extensive experience with tenancy rights - that's fine (someone with legal experience will check all submissions to verify their validity, and we will make it clear that this is not legally binding advice). If a topic is too large, break it down in to a simple yes or no route that you would ask someone to get to the bottom of their problem based on that topic. Just let us know when you submit the aspects of that topic that you didn't cover, and we can expand on that! 
 
