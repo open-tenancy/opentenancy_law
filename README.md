@@ -11,6 +11,7 @@ You can find a list of our current topics that we need decision trees for [here]
 
 ## how to use GitHub
 If you have never used GitHub before to make contributions, that's fine! We made a small video tutorial in collaboration with UoA Legal Tech Society, with the link below.
+
 https://www.youtube.com/watch?v=zzYPEcwFoqs&t
 
 ## what to write? 
