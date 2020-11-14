@@ -21,6 +21,8 @@ As part of the questionnaire we've already asked the initial questions such as i
 
 As we prepare our initial version of the openTenancy system, we need help creating the flowcharts/decision trees that continue on from the orange block on the above flowchart! Select a topic from the list of [topics here](topics.md), and start writing the questions in any form that is simplest for you! Just remember that you'll already have all of the information such as if they have a valid tenancy, and that they understand the guidance given by the system is not legal. 
 
+All of the answers in the grey blocks above will be different options that the individual users can click on to help guide them through the rest of the system, so they'll only go down the corresponding paths.
+
 ## what to write? 
 We understand that you may not have legal experience, or extensive experience with tenancy rights - that's fine (someone with legal experience will check all submissions to verify their validity, and we will make it clear that this is not legally binding advice). If a topic is too large, break it down in to a simple yes or no route that you would ask someone to get to the bottom of their problem based on that topic. Just let us know when you submit the aspects of that topic that you didn't cover, and we can expand on that! 
 
