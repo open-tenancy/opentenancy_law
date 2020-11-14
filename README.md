@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=zzYPEcwFoqs&t
 ## where do you come in? 
 As part of the questionnaire we've already asked the initial questions such as if they have a valid tenancy, and do they understand that the use of openTenancy does not meaning they will be receiving binding legal advice. To put more simply, this is what the initial questionnaire looks like: 
 
-<p align="center"><img src="first qs final.png"width=20%></p>
+<p align="center"><img src="first qs final.png"></p>
 
 ## what to write? 
 We understand that you may not have legal experience, or extensive experience with tenancy rights - that's fine (someone with legal experience will check all submissions to verify their validity, and we will make it clear that this is not legally binding advice). If a topic is too large, break it down in to a simple yes or no route that you would ask someone to get to the bottom of their problem based on that topic. Just let us know when you submit the aspects of that topic that you didn't cover, and we can expand on that! 
