@@ -17,11 +17,13 @@ https://www.youtube.com/watch?v=zzYPEcwFoqs&t
 ## where do you come in? 
 As part of the questionnaire we've already asked the initial questions such as if they have a valid tenancy, and do they understand that the use of openTenancy does not meaning they will be receiving binding legal advice. To put more simply, this is what the initial questionnaire looks like: 
 
-<p align="center"><img src="first qs final.png"></p>
+<p align="center"><img src="final.png"></p>
 
 As we prepare our initial version of the openTenancy system, we need help creating the flowcharts/decision trees that continue on from the orange block on the above flowchart! Select a topic from the list of [topics here](topics.md), and start writing the questions in any form that is simplest for you! Just remember that you'll already have all of the information such as if they have a valid tenancy, and that they understand the guidance given by the system is not legal. 
 
 All of the answers in the grey blocks above will be different options that the individual users can click on to help guide them through the rest of the system, so they'll only go down the corresponding paths.
+
+We can also include definitions - which you can see in the green box next to the terms. Those will appear when the user hovers over the individual terms, that way if they don't know what a periodic tenancy is - we have a plain and clear statement detailing just that.
 
 ## what to write? 
 We understand that you may not have legal experience, or extensive experience with tenancy rights - that's fine (someone with legal experience will check all submissions to verify their validity, and we will make it clear that this is not legally binding advice). If a topic is too large, break it down in to a simple yes or no route that you would ask someone to get to the bottom of their problem based on that topic. Just let us know when you submit the aspects of that topic that you didn't cover, and we can expand on that! 
