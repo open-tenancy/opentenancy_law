@@ -26,7 +26,7 @@ All of the answers in the grey blocks above will be different options that the i
 ## what to write? 
 We understand that you may not have legal experience, or extensive experience with tenancy rights - that's fine (someone with legal experience will check all submissions to verify their validity, and we will make it clear that this is not legally binding advice). If a topic is too large, break it down in to a simple yes or no route that you would ask someone to get to the bottom of their problem based on that topic. Just let us know when you submit the aspects of that topic that you didn't cover, and we can expand on that! 
 
-We'd prefer them to be in the style of a flowchart OR a decision tree, which is something like this: 
+We'd prefer them to be in the style of a flowchart OR a decision tree, a decision tree is something like this: 
 
 ``` 
 question: are you feeling good today? 
@@ -37,6 +37,10 @@ question: are you feeling good today?
     no: oh no that sucks that you aren't excited for the weekend :(
   no: why don't you feel good today? 
 ```
+
+If that format is too confusing from you, consider doing it as a more visual flowchart like this: 
+
+<p align="center"><img src="example.png"></p>
 
 Obviously they will get a bit more complex, but make them as complex as you feel comfortable with - we can do the rest, or open it up for further submissions who can build on your work! 
 
