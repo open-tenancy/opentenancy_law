@@ -1,0 +1,9 @@
+Question: Is your landlord refusing to carry out repairs?
+ yes: I'm sorry to hear that. Here are some potential options you could choose. 
+  Contact your local council: Provide any photos or evidence you have when you report the problem to council. The council will send an environmental health officer to conduct an inspection of your home to confirm your claim. Environmental health can then order your landlord to carry out repairs or improve conditions. END OF INTERVIEW
+  Chase up your landlord: Contact your landlord again to make sure that they are aware of what hte problem is through email or letter and keep a record of it. END OF INTERVIEW
+  Arrange for a repair yourself: It is possible to do repairs without your landlord's agreement and take the cost out of your rent, but you must first write to your landlord saying you plan to arrange repairs, get quotes for the repair work, send quotes to your landlor, and the receipts after the repair work is done. If your landlord does not pay you, write to confirm that you are going to deduct the money from your future rent explaining when the deductions will start and for how long they will last. END OF INTERVIEW 
+  Take your landlord to court: As litigation is an expensive process, you should only consider legal action as your last resort. If you do take legal action, the court can order your landlord to carry out the repair work and/or pay you compensation. END OF INTERVIEW
+ no: Are you encountering any other problems with the repairs? 
+  yes: The repairs were not done properly.
+  no: Glad to hear it. END OF INTERVIEW
