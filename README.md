@@ -1,5 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c398bad3-d323-4315-86c3-6bc79bbc5022/deploy-status)](https://app.netlify.com/sites/opentenancy/deploys)
-<p align="center"><img src="OTlogo.png"width=20%></p>
+<p align="center"><img src="images/OTlogo.png"width=20%></p>
   
 <p align="center"><b>open tenancy legal decision trees.</p></b>
 
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=zzYPEcwFoqs&t
 ## where do you come in? 
 As part of the questionnaire we've already asked the initial questions such as if they have a valid tenancy, and do they understand that the use of openTenancy does not meaning they will be receiving binding legal advice. To put more simply, this is what the initial questionnaire looks like: 
 
-<p align="center"><img src="final.png"></p>
+<p align="center"><img src="images/final.png"></p>
 
 As we prepare our initial version of the openTenancy system, we need help creating the flowcharts/decision trees that continue on from the orange block on the above flowchart! Select a topic from the list of [topics here](topics.md), and start writing the questions in any form that is simplest for you! Just remember that you'll already have all of the information such as if they have a valid tenancy, and that they understand the guidance given by the system is not legal. 
 
@@ -42,7 +42,7 @@ question: are you feeling good today?
 
 If that format is too confusing from you, consider doing it as a more visual flowchart like this: 
 
-<p align="center"><img src="example.png"></p>
+<p align="center"><img src="images/example.png"></p>
 
 Obviously they will get a bit more complex, but make them as complex as you feel comfortable with - we can do the rest, or open it up for further submissions who can build on your work! 
 
