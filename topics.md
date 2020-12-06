@@ -9,5 +9,4 @@ We have a whole list of topics that we need help with! Please see the current to
  - water heating
  - water
  - repairs relating to drains and exterior pipes
- - furniture
  - decoration of the property
