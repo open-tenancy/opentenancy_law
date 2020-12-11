@@ -14,6 +14,10 @@ If you have never used GitHub before to make contributions, that's fine! We made
 
 https://www.youtube.com/watch?v=zzYPEcwFoqs&t
 
+Was that not enough information? Watch our extended tutorial here: 
+
+https://www.youtube.com/watch?v=WOrE4B-eib4
+
 ## where do you come in? 
 As part of the questionnaire we've already asked the initial questions such as if they have a valid tenancy, and do they understand that the use of openTenancy does not meaning they will be receiving binding legal advice. To put more simply, this is what the initial questionnaire looks like: 
 
