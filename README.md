@@ -7,10 +7,10 @@ We need help writing up decision trees to get our open source access to justice 
 
 Keen to help? Awesome! What we need is help figuring out the relevant questions to be asking: which is where you come in. 
 
-You can find a list of our current topics that we need decision trees for [here](topics.md). We've also included an example of our electricity decision tree [here](/decisiontrees/electric.txt). 
+You can find a list of our current topics that we need decision trees for [here](topics.md). We've also included an example of our electricity decision tree [here](/decisiontrees/electric.txt). If you want to talk about any of the topics, or have any questions, visit our [Discussions tab](https://github.com/open-tenancy/opentenancy_law/discussions). 
 
 ## how to use GitHub
-If you have never used GitHub before to make contributions, that's fine! We made a small video tutorial in collaboration with UoA Legal Tech Society, with the link below.
+If you have never used GitHub before to make contributions, that's fine! We made a small video tutorial in collaboration with UoA Legal Tech Society, with the link below. Don't forget that you can ask us questions on our [Discussions tab](https://github.com/open-tenancy/opentenancy_law/discussions). 
 
 https://www.youtube.com/watch?v=zzYPEcwFoqs&t
 
@@ -65,6 +65,9 @@ We'd prefer if you did it through Github. You will need to make an account, fork
 However, if that's a bit tricky for you feel free to send it as an email to owner.opentenancy@gmail.com. 
 
 You can upload them in a .txt file, .pdf, .docx, .md or any format that you prefer! As long as it is clear. 
+
+## discussions, questions, and joining the community
+If you want to talk about any of the topics, or have any questions, visit our [Discussions tab](https://github.com/open-tenancy/opentenancy_law/discussions). We're also happy to just have general chats and get to know one another here!
 
 ## what do you get out of it? 
 
