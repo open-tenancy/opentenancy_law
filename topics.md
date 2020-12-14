@@ -11,6 +11,6 @@ We have a whole list of topics that we need help with! Please see the current to
 - temporarily moved away from home 
 - can't afford to pay the council tax
 
-## rent increases 
+## rent increases (CURRENTLY IN PROGRESS)
 
 ## leaving tenancy agreements
