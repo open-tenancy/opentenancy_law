@@ -14,3 +14,8 @@ We have a whole list of topics that we need help with! Please see the current to
 ## rent increases (CURRENTLY IN PROGRESS)
 
 ## leaving tenancy agreements
+
+## noisy neighbours 
+
+## signing a tenancy agreement (things to look out for, etc) 
+
