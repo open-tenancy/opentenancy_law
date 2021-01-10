@@ -62,6 +62,8 @@ here are a few useful, accurate, resources to identify the relevant law:
 * [gov.uk](https://www.gov.uk/private-renting)
 * [legislation & statues](https://www.legislation.gov.uk)
 
+Note that these are for guidance ONLY and we will not accept any pull requests that contain plagirism. Please refer to the government website or legislation as a first port of call in all instances. 
+
 ## how to submit? 
 
 We'd prefer if you did it through Github. You will need to make an account, fork our repository, create a branch, commit your file to the decision trees folder, and then review and submit it to our repository - that way we can then approve it once verified and add it directly to this page for one of our coders to input to our questionnaire! A really handy tutorial is available at [this repository](https://github.com/firstcontributions/first-contributions). These instructions cover the details, however if you're struggling with some of the steps shoot us an email at owner.opentenancy@gmail.com. A big benefit of submitting through Github is that you will be listed on our list of contributors for the project!
