@@ -1,0 +1,14 @@
+So you want to go to court?
+Question: Have you written a letter to your landlord informing them of your decision to go to court and giving them a last chance to fix repairs?
+  yes:Are you aware of and did your letter comply with the necessary requisites of the Pre-Action Protocol for Housing Conditions Claim?
+    yes: Would you consider your landlord a person who would not have access to the protocol (eg if the landlord is an individual or small organisation)?
+      yes: Send them a copy of the protocol.
+      no: You do not have to send a copy of the protocol.
+      
+      Question: Have you filled in and sent the court form to start proceedings?
+        yes: You will be sent the date of hearing and details of the proceedings by the court. END OF INTERVIEW
+        no:  Fill in form N1A with as much detail as possible and gather relevant evidence. If you don't think your evidence is good enough, contact your local council's Environmental Health Department and they will help you make a report. Send the court form to the local county court with approriate fees. END OF INTERVIEW
+   
+   no: The letter should follow Pre-Action Protocol  prerequisites such as the details of your name and address, address of the property, defects in need of repair, history of defects and past attempts at repair, details of past notifications given to landlords, effects of defect on you and special damages. It should  also request the disclosure of a copy of the tenancy agreement, tenancy file, psast notices of defects and inspection  reports from landlord. The document should also give the landlord 20 working days to reply. END OF INTERVIEW
+  no: You have to send a letter to your landlord informing them that is their last chance and giving them 20 working days to reply. The letter should also contain details such as your name and address, address of property, defects in need of repair, history of the problem and past notifications to landlords, effects of problem on tenant and any special damages. It should also request disclosure of certain documents by the landlord such as the copy of tenancy agreement, tenancy file, previous notice of defects and inspection reports. END OF INTERVIEW
+  
