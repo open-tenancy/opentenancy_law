@@ -15,8 +15,6 @@ We have a whole list of topics that we need help with! Please see the current to
 
 ## leaving tenancy agreements
 
-## noisy neighbours (IN PROGRESS) 
-
 ## signing a tenancy agreement (things to look out for, etc) 
 
 ## COVID 19 
