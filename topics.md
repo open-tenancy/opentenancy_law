@@ -2,8 +2,6 @@
 
 We have a whole list of topics that we need help with! Please see the current topics below, separated by general tenancy area:
 
-## repairs relating to: 
- - advice on going to court if they won't do the repairs (see https://www.citizensadvice.org.uk/housing/renting-privately/during-your-tenancy/going-to-court-if-your-landlord-wont-do-repairs/)
  
 ## council tax 
 - who can apply
@@ -11,13 +9,16 @@ We have a whole list of topics that we need help with! Please see the current to
 - temporarily moved away from home 
 - can't afford to pay the council tax
 
-## rent increases (CURRENTLY IN PROGRESS)
+## rent increases 
 
-## leaving tenancy agreements
+## leaving tenancy agreements 
+- how to leave a fixed term tenancy agreement 
+- how to end a rolling tenancy agreement
 
 ## signing a tenancy agreement (things to look out for, etc) 
 
 ## COVID 19 
+- special considerations to look out for
 
 ## fire safety in the home
 
