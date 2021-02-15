@@ -29,6 +29,13 @@ All of the answers in the grey blocks above will be different options that the i
 
 We can also include definitions - which you can see in the green box next to the terms. Those will appear when the user hovers over the individual terms, that way if they don't know what a periodic tenancy is - we have a plain and clear statement detailing just that.
 
+## different jurisdictions 
+Please specify which jurisdiction you are submitting for when you add your descision tree to Github. If you're interested in helping us open up to a new jurisdiction please get in touch with owner.opentenancy@gmail.com. 
+
+<p align="center"><img src="images/untitled.png"></p>
+
+After we clarify the jurisdiction we then branch in to verifying that they have a valid tenancy. 
+
 ## what to write? 
 We understand that you may not have legal experience, or extensive experience with tenancy rights - that's fine (someone with legal experience will check all submissions to verify their validity, and we will make it clear that this is not legally binding advice). If a topic is too large, break it down in to a simple yes or no route that you would ask someone to get to the bottom of their problem based on that topic. Just let us know when you submit the aspects of that topic that you didn't cover, and we can expand on that! 
 
