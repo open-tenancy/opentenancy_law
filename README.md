@@ -32,7 +32,7 @@ We can also include definitions - which you can see in the green box next to the
 ## different jurisdictions 
 Please specify which jurisdiction you are submitting for when you add your descision tree to Github. If you're interested in helping us open up to a new jurisdiction please get in touch with owner.opentenancy@gmail.com. 
 
-<p align="center"><img src="images/untitled.png"></p>
+<p align="center"><img src="images/Untitled Diagram.png"></p>
 
 After we clarify the jurisdiction we then branch in to verifying that they have a valid tenancy. 
 
