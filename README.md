@@ -89,4 +89,4 @@ If you upload to our Github - you will be listed as an official contributor! We 
 ## built by
 [Amy Conroy](https://github.com/amyconroy) | [Anastasia Shmyglia](https://github.com/a-shmyg)
 
-
+Copyright (c) Amy Conroy, Anastasia Shmyglya | [License](https://github.com/open-tenancy/opentenancy_law/blob/master/LICENSE)
