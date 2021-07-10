@@ -22,6 +22,8 @@ We have a whole list of topics that we need help with! Please see the current to
 
 ### fire safety in the home
 
+### landlord is selling the property we are renting
+
 ## Scotland
 ### if they have a valid tenancy agreement
 
